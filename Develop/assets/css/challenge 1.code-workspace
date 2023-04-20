@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../my-portfolio-"
+		},
+		{
+			"path": "../../../../../TDM-VIRT-FSF-PT-10-2022-U-LOLC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "urban-octo-telegram"
+	}
+}
